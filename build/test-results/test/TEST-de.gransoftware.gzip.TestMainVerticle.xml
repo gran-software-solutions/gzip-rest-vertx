@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.gransoftware.gzip.TestMainVerticle" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-16T14:14:24" hostname="pop-os" time="0.545">
+  <properties/>
+  <testcase name="getUser should return a user(Vertx)" classname="de.gransoftware.gzip.TestMainVerticle" time="0.522"/>
+  <testcase name="getUser returns 404 for no user found(Vertx)" classname="de.gransoftware.gzip.TestMainVerticle" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
