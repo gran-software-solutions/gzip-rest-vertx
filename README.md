@@ -1,4 +1,4 @@
-# Concurrency-in-rest-apis
+# gzip-rest-vertx
 
 This application was generated using http://start.vertx.io
 
